@@ -15,7 +15,7 @@
 
 ## 📸 Anwendungsvorschau
 
-> Screenshots können später ergänzt werden.
+> Hier werde ich später die Bildscreenshot ersetzen.
 
 | Chat Oberfläche | Beispiel |
 |---|---|

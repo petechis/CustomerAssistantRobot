@@ -8,13 +8,14 @@
 ![LLM Ops](https://img.shields.io/badge/LLM%20Ops-Grounded%20Responses-6A1B9A)
 ![Risk Control](https://img.shields.io/badge/Risk-Hallucination%20Mitigation-AD1457)
 ![Memory](https://img.shields.io/badge/Capability-Multi--Turn%20Dialogue-00897B)
-
+![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Prototype-2E7D32)
 ---
 
-Translations: [English](README.md) | [German](../DE/README.md)
+Translations: [English](README.md) | [German](./translations/DE/README.md)
+
 ## 📸 Application Preview
 
-> Replace the images with your own screenshots later.
+> Here I'll replace the image screenshots later.
 
 | Chat Interface | Example Conversation |
 |---|---|
@@ -192,11 +193,10 @@ No API keys or conversations are stored.
 
 ---
 
-## 👤 Author
+## 👤 Autor
 
 **Pete Chisamba**
 Applied AI | Data & GenAI Solutions
 
 💡 My project showcases:
 **real product thinking • safety • enterprise relevance • GenAI maturity**
-

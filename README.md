@@ -15,7 +15,7 @@ Translations: [English](README.md) | [German](./translations/DE/README.md)
 
 ## 📸 Application Preview
 
-> Replace the images with your own screenshots later.
+> Here I'll replace the image screenshots later.
 
 | Chat Interface | Example Conversation |
 |---|---|
