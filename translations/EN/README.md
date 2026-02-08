@@ -73,6 +73,7 @@ The prompt forces the model to:
 
 ### Generation
 `LLMChain` combines:
+
 ✔ context  
 ✔ chat history  
 ✔ user input  
@@ -153,10 +154,15 @@ Outside knowledge →
 This project proves practical capability in:
 
 ✔ building **grounded GenAI systems**
+
 ✔ reducing hallucinations
+
 ✔ connecting LLMs to structured data
+
 ✔ prompt engineering with behavioral control
+
 ✔ managing conversation state
+
 ✔ delivering usable business interfaces
 
 It reflects real tasks inside **GenAI, Applied AI, and AI Product teams**.
