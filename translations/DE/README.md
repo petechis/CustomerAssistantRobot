@@ -1,4 +1,3 @@
-
 # 🇩🇪
 
 # Kundenservice Assistent 🤖
@@ -15,11 +14,11 @@
 
 ## 📸 Anwendungsvorschau
 
-> Hier werde ich später die Bildscreenshot ersetzen.
+> <font color="orange"><i>Hier werde ich später mit den Bildscreenshots ersetzen.</i></font>
 
 | Chat Oberfläche | Beispiel |
-|---|---|
-| ![](../../docs/images/app_home.png) | ![](../../docs/images/chat_example.png) |
+| --- | --- |
+| ![Produkt name?](../../docs/images/app_home.png) | ![Siavonga Schokolade.](../../docs/images/chat_example.png) |
 
 ---
 
@@ -125,9 +124,13 @@ API-Key links einfügen.
 Beweist Kompetenz in:
 
 ✔ Entwicklung produktionsnaher GenAI Systeme
+
 ✔ Anbindung strukturierter Daten an LLMs
+
 ✔ Prompt Engineering
+
 ✔ State Management
+
 ✔ nutzerorientierte AI Interfaces
 
 Typische Anforderungen moderner **Applied AI Teams**.
@@ -136,9 +139,7 @@ Typische Anforderungen moderner **Applied AI Teams**.
 
 ## 🧩 ATS / Skill Keywords
 
-`LLM` `RAG` `LangChain` `OpenAI API` `Prompt Engineering`
-`Conversational AI` `Grounded Generation`
-`Streamlit` `Python` `AI Produktentwicklung`
+`LLM` `RAG` `LangChain` `OpenAI API` `Prompt Engineering`  `Conversational AI` `Grounded Generation` `Streamlit` `Python` `AI Produktentwicklung`
 
 ---
 

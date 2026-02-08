@@ -15,13 +15,12 @@ Translations: [English](README.md) | [German](../DE/README.md)
 
 ## 📸 Application Preview
 
-> Here I'll replace the image screenshots later.
+> <font color="orange"><i>Here I'll later replace with image screenshots.</i></font>
 
 | Chat Interface | Example Conversation |
-|---|---|
-| ![](docs/images/app_home.png) | ![](docs/images/chat_example.png) |
+| --- | --- |
+| ![Product name?](../../docs/images/app_home.png) | ![Siavonga Chocolate.](../../docs/images/chat_example.png) |
 
----
 
 ## 📌 Purpose of the Project
 
