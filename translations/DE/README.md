@@ -1,6 +1,17 @@
 # 🇩🇪
 
 # Kundenservice Assistent 🤖
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![AI/KI](https://img.shields.io/badge/Artificial%20Intelligence-Content--Based-orange)
+![NLP](https://img.shields.io/badge/NLP%20%7C%20RAG-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![API](https://img.shields.io/badge/API-OMDb-lightgrey)
+![LLM](https://img.shields.io/badge/LLM-OpenAI-black)
+![Framework](https://img.shields.io/badge/Framework-LangChain-blueviolet)
+![Interface](https://img.shields.io/badge/UI-Streamlit-red)
+![Architecture](https://img.shields.io/badge/Architecture-RAG-orange)
+
+---
 
 ![Einsatz](https://img.shields.io/badge/Einsatz-Kundenservice%20KI-0A66C2)
 ![Methode](https://img.shields.io/badge/Methode-Retrieval%20Augmented%20Generation-FF6F00)
@@ -8,6 +19,9 @@
 ![Risiko](https://img.shields.io/badge/Risiko-Halluzinationskontrolle-AD1457)
 ![Fähigkeit](https://img.shields.io/badge/Fähigkeit-Mehrstufiger%20Dialog-00897B)
 ![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Prototyp-2E7D32)
+---
+![Status](https://img.shields.io/badge/Status-Production--Ready-success)
+
 
 Übersetzung: [English](../EN/README.md) | [German](README.md)
 

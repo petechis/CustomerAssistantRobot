@@ -3,6 +3,16 @@
 
 # Customer Service Assistant 🤖
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![AI/KI](https://img.shields.io/badge/Artificial%20Intelligence-Content--Based-orange)
+![NLP](https://img.shields.io/badge/NLP%20%7C%20RAG-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![API](https://img.shields.io/badge/API-OMDb-lightgrey)
+![LLM](https://img.shields.io/badge/LLM-OpenAI-black)
+![Framework](https://img.shields.io/badge/Framework-LangChain-blueviolet)
+![Interface](https://img.shields.io/badge/UI-Streamlit-red)
+![Architecture](https://img.shields.io/badge/Architecture-RAG-orange)
+---
 ![Use Case](https://img.shields.io/badge/Use%20Case-Customer%20Support%20AI-0A66C2)
 ![Method](https://img.shields.io/badge/Method-Retrieval%20Augmented%20Generation-FF6F00)
 ![LLM Ops](https://img.shields.io/badge/LLM%20Ops-Grounded%20Responses-6A1B9A)
@@ -10,6 +20,7 @@
 ![Memory](https://img.shields.io/badge/Capability-Multi--Turn%20Dialogue-00897B)
 ![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Prototype-2E7D32)
 ---
+![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 
 Translations: [English](README.md) | [German](../DE/README.md)
 
