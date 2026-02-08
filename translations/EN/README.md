@@ -11,7 +11,7 @@
 ![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Prototype-2E7D32)
 ---
 
-Translations: [English](README.md) | [German](./translations/DE/README.md)
+Translations: [English](README.md) | [German](../DE/README.md)
 
 ## 📸 Application Preview
 
