@@ -10,9 +10,7 @@
 ![Framework](https://img.shields.io/badge/Framework-LangChain-blueviolet)
 ![Interface](https://img.shields.io/badge/UI-Streamlit-red)
 ![Architecture](https://img.shields.io/badge/Architecture-RAG-orange)
-
 ---
-
 ![Einsatz](https://img.shields.io/badge/Einsatz-Kundenservice%20KI-0A66C2)
 ![Methode](https://img.shields.io/badge/Methode-Retrieval%20Augmented%20Generation-FF6F00)
 ![LLM Betrieb](https://img.shields.io/badge/LLM%20Ops-Grounding-6A1B9A)

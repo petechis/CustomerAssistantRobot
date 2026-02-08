@@ -12,9 +12,7 @@
 ![Framework](https://img.shields.io/badge/Framework-LangChain-blueviolet)
 ![Interface](https://img.shields.io/badge/UI-Streamlit-red)
 ![Architecture](https://img.shields.io/badge/Architecture-RAG-orange)
-
 ---
-
 ![Use Case](https://img.shields.io/badge/Use%20Case-Customer%20Support%20AI-0A66C2)
 ![Method](https://img.shields.io/badge/Method-Retrieval%20Augmented%20Generation-FF6F00)
 ![LLM Ops](https://img.shields.io/badge/LLM%20Ops-Grounded%20Responses-6A1B9A)
