@@ -1,7 +1,7 @@
 # bring in streamlit for UI/app interface
 import streamlit as st
 from streamlit_chat import message
-from langchain import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_community.llms import OpenAI
 from langchain import LLMChain
 from sidebar_component import *
