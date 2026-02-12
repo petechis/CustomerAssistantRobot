@@ -6,11 +6,12 @@ from streamlit_chat import message
 #from langchain.chains import LLMChain
 
 from langchain_core.prompts import PromptTemplate
-from langchain.chains.llm import LLMChain
+from langchain.chains import LLMChain
 from langchain_openai import OpenAI
 from langchain.memory import ConversationBufferMemory
 
 from sidebar_component import *
+
 from sidebar_component import custom_text_main as cs
 
 import openai
