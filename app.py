@@ -2,9 +2,10 @@
 import streamlit as st
 from streamlit_chat import message
 from langchain_core.prompts import PromptTemplate
-from langchain_community.llms import OpenAI
-from langchain import LLMChain
+from langchain_openai import OpenAI
+from langchain.chains import LLMChain
 from sidebar_component import *
+
 from sidebar_component import custom_text_main as cs
 
 import openai
