@@ -2,6 +2,7 @@ openai
 streamlit
 streamlit-chat
 
+langchain
 langchain-core
 langchain-community
 langchain-openai
