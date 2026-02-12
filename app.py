@@ -1,16 +1,21 @@
 # bring in streamlit for UI/app interface
 import streamlit as st
 from streamlit_chat import message
+#from langchain_core.prompts import PromptTemplate
+#from langchain_openai import OpenAI
+#from langchain.chains import LLMChain
+
 from langchain_core.prompts import PromptTemplate
-from langchain_openai import OpenAI
 from langchain.chains import LLMChain
+from langchain_openai import OpenAI
+from langchain.memory import ConversationBufferMemory
+
 from sidebar_component import *
 
 from sidebar_component import custom_text_main as cs
 
 import openai
 from openai import OpenAIError
-from langchain.memory import ConversationBufferMemory
 from product_info import output_string # will be used as context
 
 st.set_page_config(page_title="GPT Electronic Store", layout="wide")
